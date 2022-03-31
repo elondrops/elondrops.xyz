@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/elondrops.xyz/static/css/main.03c22bf8.css",
+    "main.js": "/elondrops.xyz/static/js/main.9408b780.js",
+    "static/js/787.25a7dff6.chunk.js": "/elondrops.xyz/static/js/787.25a7dff6.chunk.js",
+    "static/media/instagram.svg": "/elondrops.xyz/static/media/instagram.ae7d04b4165abb4937be95dfc74f3148.svg",
+    "static/media/twitter.svg": "/elondrops.xyz/static/media/twitter.7d840b59647fe7978d8425ed81641713.svg",
+    "index.html": "/elondrops.xyz/index.html",
+    "static/media/menu.svg": "/elondrops.xyz/static/media/menu.3dc61aae98d0bb202cf0746398312532.svg",
+    "static/media/x.svg": "/elondrops.xyz/static/media/x.9b4d25023d73b01564298a26712586c9.svg",
+    "main.03c22bf8.css.map": "/elondrops.xyz/static/css/main.03c22bf8.css.map",
+    "main.9408b780.js.map": "/elondrops.xyz/static/js/main.9408b780.js.map",
+    "787.25a7dff6.chunk.js.map": "/elondrops.xyz/static/js/787.25a7dff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c22bf8.css",
+    "static/js/main.9408b780.js"
+  ]
+}
